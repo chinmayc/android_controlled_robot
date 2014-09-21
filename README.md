@@ -15,9 +15,12 @@ Developers
 -------
 
 Saif Hasan, 09005003
+
 Chinmay Chauhan, 09005010
+
 Sagar Chordia, 09005013
-Hemant Gangolia, 09005014
+
+Hemant Gangolia, 09005015
 
 
 Copyright and license
