@@ -1,40 +1,23 @@
 [Firebird Android Controller](#)
 =================
 
-This is a set of applications which interacts with each other and can completely control Firebird-V (FB5) from a remote place. 
+This is a set of android applications which interacts with each other and can completely control Firebird-V (FB5) from a remote place. Video streaming can be used using which navigating robot becomes easy. It's developed as a ERTS Lab Project at Indian Institute of Technology, Bombay.
 
-Video streaming can be used using which navigating robot becomes easy.
+Current status: Project modules have been integrated into Aakash-2, low cost Android tablet project by MHRD, Govt. of India
 
-It's developed as a ERTS Lab Project at Indian Institute of Technology, Bombay (IIT Bombay) and maintained by [Saif Hasan](http://www.cse.iitb.ac.in/~saifhhasan), [Sagar Chordia](), [Hemant Gangolia](), [Chinmay Chauhan]().
-
-
-
-Installation, Running
+Installation
 ----------
 
-Download the zip file from here or clone the project. After this you can directly imports projects into eclipse IDE and compile and run it.
-
-You should have Android Emulator Installed
+Download the zip file from here or clone the project. After this you can directly imports projects into eclipse IDE and compile and run it. You should have Android Emulator Installed.
 
 
-
-
-Authors
+Developers
 -------
 
-Saif Hasan
-09005003
-
-
-Sagar Chordia
-09005013
-
-Hemant Gangolia
-09005014
-
-Chinmay Chauhan
-09005010
-
+Saif Hasan, 09005003
+Chinmay Chauhan, 09005010
+Sagar Chordia, 09005013
+Hemant Gangolia, 09005014
 
 
 Copyright and license
