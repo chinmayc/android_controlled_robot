@@ -24,5 +24,3 @@ Copyright and license
 ---------------------
 
 Copyright 2012 ERTS Lab, IIT Bombay
-
-This is opensource. Anybobdy can copy, use or distribute this software.
